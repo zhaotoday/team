@@ -1,2 +1,8 @@
-# team
-Team. 团队规范、文档、项目代码积累等。
+- [用 JSON 构建 API 的标准指南](https://github.com/fzit/build-apis-in-json)
+- [语义化版本](https://github.com/fzit/semantic-versioning)
+- [PHP 代码规范](https://github.com/fzit/php-code-guides)
+- [基于 RESTful API 规范设计接口](https://github.com/fzit/rest-api-guide)
+- [前端开发代码规范](https://github.com/fzit/front-end-code-guides)
+- [Axure 原型工具集](https://github.com/fzit/axure-tools)
+- [优化网站的用户体验](https://github.com/fzit/user-experience)
+- []
