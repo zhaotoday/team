@@ -12,4 +12,7 @@
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
 - [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
 - [git 的使用](https://github.com/fzit/git-guides)
+- [SEO （搜索引擎优化）工具箱](https://github.com/zhaotoday/seo-tools)
+- [在服务端识别设备](https://github.com/zhaotoday/php-mobile-detect)
+- [服务器数据备份](https://github.com/fzit/backup-server-data)
 
