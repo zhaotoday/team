@@ -9,6 +9,7 @@
 - [简要标书](https://github.com/fzit/bidding-document)
 - [客户须知](https://github.com/fzit/something-important)
 - [公司介绍](https://github.com/fzit/about-us)
-- []
-
+- [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
+- [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
+- [git 的使用](https://github.com/fzit/git-guides)
 
