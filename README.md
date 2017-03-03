@@ -20,7 +20,11 @@
 - [命名规范](https://github.com/fzit/naming-guides)
 - [Web 前端开发检查单](https://github.com/zhaotoday/front-end-checklist)
 - [Bootstrap 基础模板](https://github.com/zhaotoday/bootstrap-boilerplate)
-
-
-
-
+- [一些前端网站收藏](https://github.com/zhaotoday/websites)
+- [基于 antd-mobile 的 react 项目模板](https://github.com/zhaotoday/react-antd-mobile)
+- [接口模拟](https://github.com/zhaotoday/mock)
+- [老版本的浏览器上访问时提示升级](https://github.com/zhaotoday/update-your-browser)
+- [react 的替代库](http://www.qianduan.org/post-408.html)
+- [基于 weui 的 react 项目模板](https://github.com/zhaotoday/react-weui)
+- [基于 reactjs+redux+webpack2 的单页应用项目模板](https://github.com/zhaotoday/react-js)
+- [基于 antd 的 react 项目模板](https://github.com/zhaotoday/react-antd)
