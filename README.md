@@ -15,4 +15,12 @@
 - [SEO （搜索引擎优化）工具箱](https://github.com/zhaotoday/seo-tools)
 - [在服务端识别设备](https://github.com/zhaotoday/php-mobile-detect)
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
+- [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
+- [免费 API 集合](https://github.com/zhaotoday/free-apis)
+- [命名规范](https://github.com/fzit/naming-guides)
+- [Web 前端开发检查单](https://github.com/zhaotoday/front-end-checklist)
+- [Bootstrap 基础模板](https://github.com/zhaotoday/bootstrap-boilerplate)
+
+
+
 
