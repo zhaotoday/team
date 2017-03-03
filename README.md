@@ -11,15 +11,14 @@
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
-- [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
 - [git 的使用](https://github.com/fzit/git-guides)
-- [SEO （搜索引擎优化）工具箱](https://github.com/zhaotoday/seo-tools)
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
 - [react 的替代库](http://www.qianduan.org/post-408.html)
 
 ## 框架
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
 - [基于 reactjs+redux+webpack2 的单页应用项目模板](https://github.com/zhaotoday/react-js)
+- [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
 - [基于 antd-mobile 的 react 项目模板](https://github.com/zhaotoday/react-antd-mobile)
 - [基于 weui 的 react 项目模板](https://github.com/zhaotoday/react-weui)
 - [基于 antd 的 react 项目模板](https://github.com/zhaotoday/react-antd)
@@ -35,6 +34,7 @@
 - [Axure 原型工具集](https://github.com/fzit/axure-tools)
 - [免费 API 集合](https://github.com/zhaotoday/free-apis)
 - [一些前端网站收藏](https://github.com/zhaotoday/websites)
+- [SEO （搜索引擎优化）工具箱](https://github.com/zhaotoday/seo-tools)
 
 ## 公司
 - [简要标书](https://github.com/fzit/bidding-document)
