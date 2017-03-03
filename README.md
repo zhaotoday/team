@@ -1,3 +1,4 @@
+## 规范
 - [用 JSON 构建 API 的标准指南](https://github.com/fzit/build-apis-in-json)
 - [语义化版本](https://github.com/fzit/semantic-versioning)
 - [PHP 代码规范](https://github.com/fzit/php-code-guides)
@@ -6,13 +7,19 @@
 - [Axure 原型工具集](https://github.com/fzit/axure-tools)
 - [优化网站的用户体验](https://github.com/fzit/user-experience)
 - [中文文案排版指南](https://github.com/fzit/chinese-copywriting-guidelines)
+
+## 公司
 - [简要标书](https://github.com/fzit/bidding-document)
 - [客户须知](https://github.com/fzit/something-important)
 - [公司介绍](https://github.com/fzit/about-us)
+
+## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
 - [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
 - [git 的使用](https://github.com/fzit/git-guides)
 - [SEO （搜索引擎优化）工具箱](https://github.com/zhaotoday/seo-tools)
+
+## 项目
 - [在服务端识别设备](https://github.com/zhaotoday/php-mobile-detect)
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
