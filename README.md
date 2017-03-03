@@ -1,16 +1,17 @@
 ## 规范
-- [用 JSON 构建 API 的标准指南](https://github.com/fzit/build-apis-in-json)
-- [语义化版本](https://github.com/fzit/semantic-versioning)
+- [前端开发代码规范](https://github.com/fzit/front-end-code-guides)
 - [PHP 代码规范](https://github.com/fzit/php-code-guides)
 - [基于 RESTful API 规范设计接口](https://github.com/fzit/rest-api-guide)
-- [前端开发代码规范](https://github.com/fzit/front-end-code-guides)
+- [Web 前端开发检查单](https://github.com/zhaotoday/front-end-checklist)
+- [用 JSON 构建 API 的标准指南](https://github.com/fzit/build-apis-in-json)
+- [语义化版本](https://github.com/fzit/semantic-versioning)
 - [优化网站的用户体验](https://github.com/fzit/user-experience)
 - [中文文案排版指南](https://github.com/fzit/chinese-copywriting-guidelines)
 - [命名规范](https://github.com/fzit/naming-guides)
-- [Web 前端开发检查单](https://github.com/zhaotoday/front-end-checklist)
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
+- [微信小程序相关资料收集](https://github.com/zhaotoday/mini-program)
 - [git 的使用](https://github.com/fzit/git-guides)
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
 - [react 的替代库](http://www.qianduan.org/post-408.html)
