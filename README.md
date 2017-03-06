@@ -15,6 +15,7 @@
 - [git 的使用](https://github.com/fzit/git-guides)
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
 - [react 的替代库](http://www.qianduan.org/post-408.html)
+- [宝塔 nginx+php 环境下添加 https 支持](http://www.qianduan.org/post-462.html)
 
 ## 框架
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
