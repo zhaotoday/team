@@ -8,6 +8,7 @@
 - [优化网站的用户体验](https://github.com/fzit/user-experience)
 - [中文文案排版指南](https://github.com/fzit/chinese-copywriting-guidelines)
 - [命名规范](https://github.com/fzit/naming-guides)
+- [Commit message 和 Change log 编写指南](https://github.com/zhaotoday/commit-message)
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
