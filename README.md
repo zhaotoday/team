@@ -18,6 +18,7 @@
 - [服务器数据备份](https://github.com/fzit/backup-server-data)
 - [react 的替代库](http://www.qianduan.org/post-408.html)
 - [宝塔 nginx+php 环境下添加 https 支持](http://www.qianduan.org/post-462.html)
+- [简单web安全checklist及解决方案](http://zoucz.com/blog/2017/03/21/web-security/)
 
 ## 框架
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
@@ -26,7 +27,6 @@
 - [基于 antd-mobile 的 react 项目模板](https://github.com/zhaotoday/react-antd-mobile)
 - [基于 weui 的 react 项目模板](https://github.com/zhaotoday/react-weui)
 - [基于 antd 的 react 项目模板](https://github.com/zhaotoday/react-antd)
-
 
 ## 代码
 - [在服务端识别设备](https://github.com/zhaotoday/php-mobile-detect)
