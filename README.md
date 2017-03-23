@@ -10,6 +10,7 @@
 - [命名规范](https://github.com/fzit/naming-guides)
 - [Commit message 和 Change log 编写指南](https://github.com/zhaotoday/commit-message)
 - [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
+- [用 ESDoc 规范编写代码注释](https://github.com/zhaotoday/esdoc)
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
