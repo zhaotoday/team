@@ -12,6 +12,7 @@
 - [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
 - [Airbnb React/JSX 编码规范](https://github.com/JasonBoy/javascript/tree/master/react)
 - [用 ESDoc 规范编写代码注释](https://github.com/zhaotoday/esdoc)
+- [编写良好的前端组件](https://imys.net/20170317/write-good-front-end-component.html)
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
