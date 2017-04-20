@@ -26,6 +26,7 @@
 
 ## 框架
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
+- [基于 vue-cli 的 Vue.js 单页应用项目模板](https://github.com/zhaotoday/vue.js)
 - [基于 reactjs+redux+webpack2 的单页应用项目模板](https://github.com/zhaotoday/react-js)
 - [基于 webpack 的网站调试及构建方案](https://github.com/zhaotoday/multi-page-website)
 - [基于 antd-mobile 的 react 项目模板](https://github.com/zhaotoday/react-antd-mobile)
