@@ -25,6 +25,7 @@
 - [宝塔 nginx+php 环境下添加 https 支持](http://www.qianduan.org/post-462.html)
 - [简单web安全checklist及解决方案](http://zoucz.com/blog/2017/03/21/web-security/)
 - [CSS 命名规范 - BEM 的使用](https://github.com/zhaotoday/bem)
+- [sass语法](http://www.w3cplus.com/sassguide/syntax.html)
 
 ## 框架
 - [一套基于 CodeIgniter 的轻量级 PHP MVC 框架](https://github.com/zhaotoday/php-rich-app)
