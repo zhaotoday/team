@@ -15,6 +15,7 @@
 - [编写良好的前端组件](https://imys.net/20170317/write-good-front-end-component.html)
 - [一些设计规范收藏](https://github.com/zhaotoday/design-guides)
 - [GitHub README 文件语法解读](https://github.com/guodongxiaren/README)
+- [Airbnb CSS / Sass 指南](https://github.com/Zhangjd/css-style-guide)
 
 ## 教程
 - [产品测试发布流程及 gitflow 工作流经验总结](https://github.com/zhaotoday/product-workflow)
